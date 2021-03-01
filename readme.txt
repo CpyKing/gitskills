@@ -1,0 +1,1 @@
+git add a new branch is quick. 
